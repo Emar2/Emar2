@@ -1,7 +1,7 @@
 # Hi, I'm Edward Marty! 👋
 
-## 💻 About Me
-I'm a passionate developer, cybersecurity enthusiast, and game designer. My expertise ranges from Python development to creating custom Linux environments, AI-powered tools, and immersive game experiences. Currently, I'm working on **Sloth Linux**, an optimized gaming environment, and an **interactive GUI-based game** set in an ancient ziggurat.
+## 💻
+I'm a passionate developer, cybersecurity enthusiast, and game designer. I am pursuing my bachelor's degree in cybersecurity at SNHU. My expertise ranges from Python development to creating custom Linux environments, AI-powered tools, and immersive game experiences. Currently, I'm working on Sloth Linux, an optimized gaming environment, and an interactive GUI-based game set in an ancient ziggurat.
 
 ## 🚀 Projects
 ### 🦥 Sloth Linux
