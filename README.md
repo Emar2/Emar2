@@ -24,6 +24,6 @@ A puzzle-adventure game set in an ancient ziggurat, featuring a guardian wraith 
 - **AI & Automation**: ChatGPT API, Node-RED, AI Agents
 
 ## 📫 Connect With Me
-- GitHub: [github.com/yourusername](#)
-- LinkedIn: [linkedin.com/in/yourprofile](#)
-- Email: your.email@example.com
+- GitHub: 
+- LinkedIn: https://www.linkedin.com/in/edward-m-339514281\
+- Email: https://emar-2.com/
