@@ -44,5 +44,5 @@ Current areas of interest include:
 - Website: https://emar-2.com/
 - Business Website: https://ejtechrepair.com
 - GitHub: https://github.com/Emar2/Cyber-Security-Portfolio-
-- LinkedIn: https://www.linkedin.com/in/edward-m-339514281/
+- LinkedIn: https://www.linkedin.com/in/edward-marty-968a28281/
 - Email: emarty9976@outlook.com
