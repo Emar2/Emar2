@@ -19,7 +19,7 @@ A collection of coursework, labs, and projects related to networking, cybersecur
 ### EJ Tech Repair Website
 A business website for EJ Tech Repair, designed to provide customers with information about available services and a way to request technical support.
 
-- [Website](https://ejtechrepair.com/)
+https://ejtechrepair.com
 
 ### AI & Automation Projects
 Exploring ways to use AI and automation tools to improve workflows, technical support processes, and productivity.
