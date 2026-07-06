@@ -16,7 +16,7 @@ A collection of coursework, labs, and projects related to networking, cybersecur
 
 - [Repository Link](https://github.com/Emar2/Cyber-Security-Portfolio-)
 
-### EJ Tech Repair Website
+### EJ Tech Repair
 A business website for EJ Tech Repair, designed to provide customers with information about available services and a way to request technical support.
 
 https://ejtechrepair.com
